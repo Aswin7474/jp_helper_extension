@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+#window {
+    display: flex;
+}
+
+#word_input {
+    align-items: center;
+    justify-content: center;
+}
